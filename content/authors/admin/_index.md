@@ -3,7 +3,7 @@ title: Xi Pang
 role: Ph.D. Student
 avatar_filename: img_3598.jpg
 bio: My research interests include database system, cloud-native database system
-  and distributed database system.
+  and distributed system.
 interests:
   - Database Systems
   - Cloud-Native Database Systems
