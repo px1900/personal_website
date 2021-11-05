@@ -33,4 +33,4 @@ email: pang65@purdue.edu
 superuser: true
 highlight_name: true
 ---
-Xi Pang is a Ph.D. student at Database Lab, Purdue University. His research interest include database system, cloud-native database system and distributed system. He is under the supervision of Prof. Jianguo.
+Xi Pang is a Ph.D. student at Database Lab, Purdue University. His research interest include database system, cloud-native database system and distributed system. He is under the supervision of <a herf="https://www.cs.purdue.edu/homes/csjgwang/">Prof. Jianguo</a>.
