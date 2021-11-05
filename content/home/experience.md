@@ -37,7 +37,7 @@ experience:
     company_logo: org-x
     location: Beijing, China
     date_start: '2019-02-01'
-    date_end: ''
+    date_end: '2020-05-01'
    
 
 design:
