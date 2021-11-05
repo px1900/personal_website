@@ -25,7 +25,7 @@ experience:
   - title: Ph.D. Student
     company: Purdue University
     company_url: ''
-    company_logo: org-gc
+    company_logo: 'https://en.wikipedia.org/wiki/Purdue_Boilermakers#/media/File:Purdue_Boilermakers_logo.svg'
     location: Lafayette, United State
     date_start: '2021-08-01'
     date_end: ''
