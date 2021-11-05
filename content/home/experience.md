@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Lafayette, United State
-    date_start: '2021-08'
+    date_start: '2021-08-01'
     date_end: ''
     
     
@@ -36,7 +36,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Beijing, China
-    date_start: '2019-02'
+    date_start: '2019-02-01'
     date_end: ''
    
 
