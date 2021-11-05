@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: pang65@purdue.edu
+    link: mailto:pang65@purdue.edu
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=
