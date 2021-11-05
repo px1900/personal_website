@@ -34,7 +34,7 @@ experience:
   - title: Software Development Engineer
     company: Tiktok, ByteDance
     company_url: ''
-    company_logo: org-x
+    company_logo: bytedance
     location: Beijing, China
     date_start: '2019-02-01'
     date_end: '2020-05-01'
