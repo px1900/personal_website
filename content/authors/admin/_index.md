@@ -2,12 +2,12 @@
 title: Xi Pang
 role: Ph.D. Student
 avatar_filename: avatar.jpg
-bio: My research interests include database system, cloud-native database system
-  and distributed system.
+bio: My research interests include disaggregated database system, cloud-native database
+system and ML4DB.
 interests:
-  - Database Systems
+  - Disaggregated Database Systems
   - Cloud-Native Database Systems
-  - Distributed System
+  - Machine Learning for Database System
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,11 +26,16 @@ organizations:
     url: https://www.purdue.edu/
 education:
   courses:
-    - course: PhD in Database System
+    - course: PhD Student in Computer Science 
       institution: Purdue University
       year: 2021
 email: pang65@purdue.edu
 superuser: true
 highlight_name: true
 ---
-Xi Pang is a Ph.D. student at Database Lab, Purdue University. His research interest includes database system, cloud-native database system and distributed system. He is under the supervision of <a href="https://www.cs.purdue.edu/homes/csjgwang/">Prof. Jianguo</a>.
+
+Xi Pang is a Ph.D. student in the Database Lab at Purdue University. His research focuses
+on disaggregated database systems, cloud-native database systems, and ML4DB. He is
+fortunate to be supervised by <a href="https://www.cs.purdue.edu/homes/csjgwang/">Prof.
+Jianguo Wang</a> in his academic journey.
+

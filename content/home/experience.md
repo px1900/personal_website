@@ -26,7 +26,7 @@ experience:
     company: Purdue University
     company_url: ''
     company_logo: purdue
-    location: Lafayette, United State
+    location: West Lafayette, United State
     date_start: '2021-08-01'
     date_end: ''
     
