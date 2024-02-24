@@ -2,8 +2,7 @@
 title: Xi Pang
 role: Ph.D. Student
 avatar_filename: avatar.jpg
-bio: My research interests include disaggregated database system, cloud-native database
-system and ML4DB.
+bio: My research interests include disaggregated database system, cloud-native database system and ML4DB.
 interests:
   - Disaggregated Database Systems
   - Cloud-Native Database Systems
