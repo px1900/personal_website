@@ -44,7 +44,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/px1900/OpenAurora'
+url_code: 'https://github.com/purduedb/OpenAurora'
 url_dataset: ''
 url_poster: ''
 url_project: ''
