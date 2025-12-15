@@ -74,4 +74,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
